@@ -21,3 +21,5 @@ Ever since, I've also been studying apart some technologies to improve myself an
 ## To know more
 
 If you got interested and want to know more about my work and studies, go to my full [Portfolio]() where I present more about everything I've done.
+
+If you would like to see it in portuguese, you can click [here]().
